@@ -1,2 +1,2 @@
 Purdue CompE class of 2022
-Prospective Gatech MS ECE
+Gatech MS ECE 2024
